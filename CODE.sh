@@ -8,4 +8,6 @@ enscript --pretty-print --color --language=html --line-numbers -p dcraw.c.html d
 # from 1107.zip use A5_Template.docx
 # copy .html content into the document
 # activate numbering
+# define styles
+# protect restricted code
 
