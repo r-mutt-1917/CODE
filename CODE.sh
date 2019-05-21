@@ -11,3 +11,4 @@ enscript --pretty-print --color --language=html --line-numbers -p dcraw.c.html d
 # define styles
 # protect restricted code
 
+#add copyleft notice and index for ISBN distribution
