@@ -26,5 +26,7 @@ Al plasmar el código en un libro físico, éste sucede fuera de un entorno téc
 Referencias
 --------------
 (1) Dave Coffin, (1997). Aplicación dcraw. https://es.wikipedia.org/wiki/Dcraw
-(2) Goldsmith, K. (2015). Escritura no-creativa. Gestionando el lenguaje en la era digital. Buenos Aires: Caja Negra.
+
+(2) Goldsmith, K. (2015). Escritura no-creativa. Gestionando el lenguaje en la era digital. Buenos Aires: Caja Negra
+
 (3) Inke Arns. El código como acto de habla performativo (2005). https://artnodes.uoc.edu/articles/10.7238/ 
